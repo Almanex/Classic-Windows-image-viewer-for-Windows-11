@@ -34,3 +34,4 @@ BMP, JPG, JPEG, PNG, GIF, TIF, TIFF, ICO, WMF, EMF
 ## License
 
 MIT
+# Classic-Windows-image-viewer-for-Windows-11
