@@ -4,7 +4,11 @@ Classic Windows image viewer for Windows 10/11.
 
 ## Overview
 
-`PhotoViewer.exe` launches the classic Windows full-screen image viewer through `ImageView_FullscreenW` from `shimgvw.dll`.
+Microsoft has removed the classic Windows Photo Viewer interface in Windows 10 and 11, but the underlying system library `shimgvw.dll` remains to support legacy functionality. 
+
+`PhotoViewer.exe` is a tiny launcher that calls `ImageView_FullscreenW` from `shimgvw.dll` to bring back the familiar full-screen viewing experience.
+
+If your system version lacks `shimgvw.dll` (common in some lite or "N" editions), you can find compatible versions in the `DLL/` directory of this project.
 
 ## Usage
 
