@@ -38,4 +38,3 @@ BMP, JPG, JPEG, PNG, GIF, TIF, TIFF, ICO, WMF, EMF
 ## Лицензия
 
 MIT
-# Классический просмотрщик изображений Windows для Windows 11
