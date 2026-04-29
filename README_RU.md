@@ -13,7 +13,7 @@ Microsoft удалила классический интерфейс средс�
 ## Использование
 
 ```powershell
-PhotoViewer.exe "C:\Pictures\photo.jpg"
+PhotoViewer.exe "C:\Users\User\Pictures\photo.jpg"
 PhotoViewer.exe
 ```
 
