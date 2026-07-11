@@ -1,23 +1,25 @@
+[ English ](README.md) • [ Русский ](README_RU.md) • [ Deutsch ](README_DE.md)
+
 # Shell Image Viewer
 
 Classic Windows image viewer for Windows 10/11.
 
-## Overview
+##Overview
 
-Microsoft has removed the classic Windows Photo Viewer interface in Windows 10 and 11, but the underlying system library `shimgvw.dll` remains to support legacy functionality. 
+Microsoft has removed the classic Windows Photo Viewer interface in Windows 10 and 11, but the underlying system library `shimgvw.dll` remains to support legacy functionality.
 
 `PhotoViewer.exe` is a tiny launcher that calls `ImageView_FullscreenW` from `shimgvw.dll` to bring back the familiar full-screen viewing experience.
 
 If your system version lacks `shimgvw.dll` (common in some lite or "N" editions), you can find compatible versions in the `DLL/` directory of this project.
 
-## Usage
+##Usage
 
 ```powershell
 PhotoViewer.exe "C:\Pictures\photo.jpg"
 PhotoViewer.exe
 ```
 
-## Build
+##Build
 
 Requirements:
 - Windows 10/11

@@ -1,40 +1,43 @@
+[ English ](README.md) • [ Русский ](README_RU.md) • [ Deutsch ](README_DE.md)
+
 # Shell Image Viewer
 
-Классический просмотрщик изображений Windows для Windows 10/11.
+Classic Windows image viewer for Windows 10/11.
 
-## Обзор
+## Overview
 
-Microsoft удалила классический интерфейс средства просмотра фотографий Windows (Windows Photo Viewer) в Windows 10 и 11, но базовая системная библиотека `shimgvw.dll` осталась для поддержки устаревших функций. 
+Microsoft has removed the classic Windows Photo Viewer interface in Windows 10 and 11, but the underlying system library `shimgvw.dll` remains to support legacy functionality.
 
-`PhotoViewer.exe` — это крошечный лаунчер, который вызывает `ImageView_FullscreenW` из `shimgvw.dll`, чтобы вернуть привычный интерфейс полноэкранного просмотра.
+`PhotoViewer.exe` is a tiny launcher that calls `ImageView_FullscreenW` from `shimgvw.dll` to bring back the familiar full-screen viewing experience.
 
-Если в вашей версии системы отсутствует `shimgvw.dll` (часто встречается в некоторых "облегченных" версиях или "N" редакциях), вы можете найти совместимые версии в каталоге `DLL/` этого проекта.
+If your system version lacks `shimgvw.dll` (common in some lite or "N" editions), you can find compatible versions in the `DLL/` directory of this project.
 
-## Использование
+## Usage
 
 ```powershell
-PhotoViewer.exe "C:\Users\User\Pictures\photo.jpg"
+PhotoViewer.exe "C:\Pictures\photo.jpg"
 PhotoViewer.exe
 ```
 
-## Сборка
+## Build
 
-Требования:
+Requirements:
 - Windows 10/11
 - CMake 3.16+
-- MinGW-w64 или MSVC с поддержкой C++17
+- MinGW-w64 or MSVC with C++17 support
 
 ```powershell
 cmake -B build -G "MinGW Makefiles"
 cmake --build build --config Release
 ```
 
-Результат: `release/PhotoViewer.exe`
+Result: `release/PhotoViewer.exe`
 
-## Поддерживаемые форматы
+## Supported formats
 
 BMP, JPG, JPEG, PNG, GIF, TIF, TIFF, ICO, WMF, EMF
 
-## Лицензия
+## License
 
 MIT
+# Classic-Windows-image-viewer-for-Windows-11
