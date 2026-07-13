@@ -6,6 +6,11 @@
 
 Diese Anleitung beschreibt, wie Sie die klassische Benutzeroberfläche zur Bildanzeige mit dem portablen Dienstprogramm **Shell Image Viewer** wiederherstellen.
 
+
+<p align="center">
+  <img src="../screenshots/cover.png" alt="Shell Image Viewer" width="95%" />
+</p>
+
 ---
 
 ## Schritt 1. Anwendung herunterladen

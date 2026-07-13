@@ -6,6 +6,11 @@
 
 This guide describes how to restore the classic Windows photo viewer interface using the portable utility **Shell Image Viewer**.
 
+
+<p align="center">
+  <img src="../screenshots/cover.png" alt="Shell Image Viewer" width="95%" />
+</p>
+
 ---
 
 ## Step 1. Download the Application

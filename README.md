@@ -9,6 +9,11 @@
 [![Language: C++17](https://img.shields.io/badge/Language-C%2B%2B17-blue.svg)](#)
 [![Share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FAlmanex%2FClassic-Windows-image-viewer-for-Windows-11)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20project&url=https%3A%2F%2Fgithub.com%2FAlmanex%2FClassic-Windows-image-viewer-for-Windows-11)
 
+
+<p align="center">
+  <img src="screenshots/cover.png" alt="Shell Image Viewer" width="95%" />
+</p>
+
 ---
 
 ## Overview
