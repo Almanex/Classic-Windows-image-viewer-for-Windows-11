@@ -1,5 +1,3 @@
-[ English ](../README.md) • [ Русский ](README_RU.md) • [ Deutsch ](README_DE.md)
-
 # Shell Image Viewer
 
 *Klassischer Windows-Bildbetrachter für Windows 10 und 11.*
@@ -101,26 +99,6 @@ Wir freuen uns über jeden Beitrag zur Verbesserung des Projekts! Sie können Fe
 
 ---
 
-## Versionierung
-
-Dieses Projekt verwendet die semantische Versionierung (SemVer). Alle verfügbaren Versionen und Tags können auf der Registerkarte „Releases“ im Repository eingesehen werden.
-
----
-
-## Autoren und Mitwirkende
-
-- Erstautor: [Almanex](https://github.com/Almanex)
-- Community und Mitwirkende
-
----
-
 ## Lizenz
 
 Das Projekt ist unter der freien MIT-Lizenz lizenziert. Weitere Details finden Sie in der Datei [LICENSE](../LICENSE).
-
----
-
-## Danksagungen
-
-- Entwickler der originalen Bibliothek `shimgvw.dll`.
-- Community für Unterstützung und Tests.

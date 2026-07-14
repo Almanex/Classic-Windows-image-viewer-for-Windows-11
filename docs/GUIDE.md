@@ -1,5 +1,3 @@
-[ English ](GUIDE.md) • [ Русский ](GUIDE_RU.md) • [ Deutsch ](GUIDE_DE.md)
-
 # Shell Image Viewer User Guide
 
 *Step-by-step instructions on how to restore and use the classic photo viewer in Windows 10 and 11.*
@@ -31,8 +29,6 @@ Move the downloaded `PhotoViewer.exe` file to any permanent folder on your compu
 > To run the program:
 > 1. Click on the **"More info"** link.
 > 2. Click the **"Run anyway"** button.
->
-> ![SmartScreen warning](https://g-ek.com/assets/images/00/shell-image-viewer-pic-5.png)
 
 ---
 
@@ -40,8 +36,6 @@ Move the downloaded `PhotoViewer.exe` file to any permanent folder on your compu
 
 1. Right-click on any image file (e.g., `.jpg` or `.png`).
 2. Select **"Open with"** → **"Choose another app"**.
-   
-   ![Open with](https://g-ek.com/assets/images/Windows11/shell-image-viewer-pic-1.png)
 
 ---
 
@@ -51,8 +45,6 @@ Move the downloaded `PhotoViewer.exe` file to any permanent folder on your compu
 2. Click **"Look for another app on this PC"**.
 3. In the Explorer window, navigate to the folder where you saved `PhotoViewer.exe` (from Step 2), select it, and click **"Open"**.
 
-   ![Select file in Explorer](https://g-ek.com/assets/images/Windows11/shell-image-viewer-pic-3.png)
-
 ---
 
 ## Step 5. Associate File Types
@@ -60,8 +52,6 @@ Move the downloaded `PhotoViewer.exe` file to any permanent folder on your compu
 Select how you want to use the application:
 - To always use this program for this file type, click **"Always"**.
 - To use it just once, click **"Just once"**.
-
-![Use choice](https://g-ek.com/assets/images/Windows11/shell-image-viewer-pic-4.png)
 
 > [!TIP]
 > **Associate other formats:**

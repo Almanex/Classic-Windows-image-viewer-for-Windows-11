@@ -1,5 +1,3 @@
-[ English ](GUIDE.md) • [ Русский ](GUIDE_RU.md) • [ Deutsch ](GUIDE_DE.md)
-
 # Shell Image Viewer Benutzerhandbuch
 
 *Schritt-für-Schritt-Anleitung zur Einrichtung und Verwendung des klassischen Windows-Bildbetrachters unter Windows 10 und 11.*
@@ -31,8 +29,6 @@ Verschieben Sie die heruntergeladene Datei `PhotoViewer.exe` in einen beliebigen
 > So führen Sie das Programm aus:
 > 1. Klicken Sie auf den Link **„Weitere Informationen“** (More info).
 > 2. Klicken Sie auf die Schaltfläche **„Trotzdem ausführen“** (Run anyway).
->
-> ![SmartScreen-Warnung](https://g-ek.com/assets/images/00/shell-image-viewer-pic-5.png)
 
 ---
 
@@ -40,8 +36,6 @@ Verschieben Sie die heruntergeladene Datei `PhotoViewer.exe` in einen beliebigen
 
 1. Klicken Sie mit der rechten Maustaste auf eine beliebige Bilddatei (z. B. `.jpg` oder `.png`).
 2. Wählen Sie **„Öffnen mit“** (Open with) → **„Andere App auswählen“** (Choose another app).
-   
-   ![Öffnen mit](https://g-ek.com/assets/images/Windows11/shell-image-viewer-pic-1.png)
 
 ---
 
@@ -51,8 +45,6 @@ Verschieben Sie die heruntergeladene Datei `PhotoViewer.exe` in einen beliebigen
 2. Klicken Sie auf **„Andere App auf diesem PC suchen“** (Look for another app on this PC).
 3. Navigieren Sie im Explorer-Fenster zu dem Ordner, in dem Sie `PhotoViewer.exe` gespeichert haben (aus Schritt 2), wählen Sie die Datei aus und klicken Sie auf **„Öffnen“** (Open).
 
-   ![Datei im Explorer auswählen](https://g-ek.com/assets/images/Windows11/shell-image-viewer-pic-3.png)
-
 ---
 
 ## Schritt 5. Dateitypen zuordnen
@@ -60,8 +52,6 @@ Verschieben Sie die heruntergeladene Datei `PhotoViewer.exe` in einen beliebigen
 Wählen Sie aus, wie Sie die Anwendung verwenden möchten:
 - Um dieses Programm immer für diesen Dateityp zu verwenden, klicken Sie auf **„Immer“** (Always).
 - Um es nur einmal zu verwenden, klicken Sie auf **„Nur einmal“** (Just once).
-
-![Verwendung auswählen](https://g-ek.com/assets/images/Windows11/shell-image-viewer-pic-4.png)
 
 > [!TIP]
 > **Weitere Formate zuordnen:**

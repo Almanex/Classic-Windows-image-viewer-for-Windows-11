@@ -1,5 +1,3 @@
-[ English ](README.md) • [ Русский ](docs/README_RU.md) • [ Deutsch ](docs/README_DE.md)
-
 # Shell Image Viewer
 
 *Classic Windows Photo Viewer launcher for Windows 10 and 11.*
@@ -101,26 +99,6 @@ Contributions are welcome! Feel free to open issues or submit Pull Requests for 
 
 ---
 
-## Versioning
-
-This project adheres to Semantic Versioning (SemVer). To see available tags and releases, check the releases section of this repository.
-
----
-
-## Authors & Contributors
-
-- Initial author: [Almanex](https://github.com/Almanex)
-- Contributors & community
-
----
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments
-
-- Developers of the original `shimgvw.dll`.
-- Community testers and contributors.
