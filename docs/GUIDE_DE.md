@@ -6,7 +6,7 @@
 Mit dem Dienstprogramm **Shell Image Viewer** können Sie die langsamere Standard-Windows-Fotos-App einfach umgehen und die gewohnte, schnelle Bildanzeige ohne komplexe Registrierungsänderungen wiederherstellen.
 
 <p align="center">
-  <img src="../screenshots/cover.png" alt="Shell Image Viewer" width="95%" />
+  <img src="../screenshots/cover.webp" alt="Shell Image Viewer" width="95%" />
 </p>
 
 ## Schnellstartanleitung

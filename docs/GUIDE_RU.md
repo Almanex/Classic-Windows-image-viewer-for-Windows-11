@@ -6,7 +6,7 @@
 С помощью утилиты **Shell Image Viewer** вы можете легко заменить стандартное медленное приложение «Фотографии» и вернуть привычный скоростной просмотрщик без сложного редактирования системного реестра.
 
 <p align="center">
-  <img src="../screenshots/cover.png" alt="Shell Image Viewer" width="95%" />
+  <img src="../screenshots/cover.webp" alt="Shell Image Viewer" width="95%" />
 </p>
 
 ## Быстрый старт

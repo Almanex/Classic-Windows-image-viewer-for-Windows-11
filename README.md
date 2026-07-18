@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="screenshots/cover.png" alt="Shell Image Viewer" width="95%" />
+  <img src="screenshots/cover.webp" alt="Shell Image Viewer" width="95%" />
 </p>
 
 ---

@@ -6,7 +6,7 @@
 By using **Shell Image Viewer**, you can easily bypass the slower default Windows Photos app and get back the fast, familiar image viewing experience without complex registry edits.
 
 <p align="center">
-  <img src="../screenshots/cover.png" alt="Shell Image Viewer" width="95%" />
+  <img src="../screenshots/cover.webp" alt="Shell Image Viewer" width="95%" />
 </p>
 
 ## Quick-Start Instructions
